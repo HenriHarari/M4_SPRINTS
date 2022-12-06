@@ -1,0 +1,33 @@
+#jogo{
+    width:603px;
+    height:600px;
+    border:solid 3px
+}
+ 
+.linha{
+    height:200px;
+    border-bottom:solid 1px;
+}
+ 
+.casa{
+    width:200px;
+    height:100%;
+    border-right:solid 1px;
+    float:left;
+}
+
+
+p{
+   font-size : 60px;
+   color: brown;
+   font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.jogo{
+    align-items:center ;
+}
+.jog1{
+    font-size: 20px;
+}
+.jog2{
+    font-size: 20px;
+}
